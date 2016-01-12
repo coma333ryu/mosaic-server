@@ -34,4 +34,4 @@ test.json
 # mindmap file
 *.mm
 # doc info file
-**/doc_img/
+#**/doc_img/
