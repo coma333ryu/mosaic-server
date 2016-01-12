@@ -33,3 +33,5 @@ test.json
 
 # mindmap file
 *.mm
+# doc info file
+/src/bMarks/doc_img/*.*
