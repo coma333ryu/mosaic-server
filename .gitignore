@@ -20,5 +20,16 @@ _cgo_export.*
 _testmain.go
 
 *.exe
+*.exec
 *.test
 *.prof
+
+# IntelliJ
+.idea
+*.iml
+
+*.back
+test.json
+
+# mindmap file
+*.mm
